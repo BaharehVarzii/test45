@@ -1,1 +1,3 @@
-elect * from table
+
+select * from table
+
